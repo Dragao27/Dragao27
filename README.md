@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Dragoș and I'm from Romania
+- 👋 Hi, I’m Dragoș and I'm from Romania.
 - 👀 I’m interested in web design and learning programming languages
-- 🌱 I’m currently learning MySQL and scratching the surface of how it interacts with NodeJs
+- 🌱 Recently completed a MySQL course, my first step towards IT.
+- 👉 At the moment I have my hands full with a more complex topic: Java
 - 💞️ I’m looking to accumulate as much information as I can
 
 <!---
